@@ -32,7 +32,7 @@ This repository documents my practical learning experience with password recover
 
 ### 📸 Screenshot 1 — Unlocked PDF
 
-Add your screenshot of the successfully unlocked PDF below.
+![Week 3 Lab Screenshot](week%203.png)
 
 `01-JTR-Password-Cracking/unlocked-pdf.png`
 
@@ -49,9 +49,7 @@ Add your screenshot of the successfully unlocked PDF below.
 
 ### 📸 Screenshot 2 — Generated Hash
 
-Add your screenshot showing the successfully generated hash below.
-
-`02-Networkwalks-Tools/generated-hash.png`
+![Networkwalks Hash Calculator](01-NW-Hash-Calculator.png.png)
 
 ---
 
